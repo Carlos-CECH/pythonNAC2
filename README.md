@@ -2,8 +2,10 @@
 
 ## Parte 1
 
-**Aluno:** 
-[Icon](images/carloseduardo-01[250].PNG "Carlos Eduardo de Castro Henriques")
+**Aluno:**
+
+![Icon](./images/carloseduardo-01[250].PNG "Carlos Eduardo de Castro Henriques")
+
 **Carlos Eduardo de Castro Henriques**
 
 **Turma: A**
@@ -27,15 +29,15 @@ Execute a celula do Jupyter notebook:
 * Execute o mesmo comando para `math`, `notebook` e `numpy`
 * Acesse o local do arquivo pelo terminal
 * Execute o comando jupyter notebook no terminal
-* Abra o R2.ipynb
+* Abra o teste.ipynb
 * Execute a celula do Jupyter notebook
-* Pronto > Você acaba de executar o aplicativo R2
+* Pronto > Você acaba de executar o aplicativo teste
 
 Como clonar o repositório:
 
     cd /home/iot
-    git clone https://github.com/Carlos-CECH/pythonNAC1
-    cd pythonNAC1
+    git clone https://github.com/Carlos-CECH/pythonNAC2
+    cd pythonNAC2
     ls
 
 
@@ -44,7 +46,7 @@ Como clonar o repositório:
 <!--[Link para o video youtube](https://youtu.be/wv0MEnzSnEs)-->
 
 
-### Referências 
+## Referências 
 
 <!--* [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [Math.atan2()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/atan2)
