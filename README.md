@@ -3,7 +3,7 @@
 ## Parte 1
 
 **Aluno:** 
-![Icon](images/carloseduardo-01[250].PNG "Carlos Eduardo de Castro Henriques")
+![Image](images/carloseduardo-01[250].PNG "Carlos Eduardo de Castro Henriques")
 **Carlos Eduardo de Castro Henriques**
 
 **Turma: A**
