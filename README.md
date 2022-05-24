@@ -60,6 +60,7 @@ Como clonar o repositório:
 * [PlaySound](https://pypi.org/project/playsound/)
 * [Tesseract](https://github.com/UB-Mannheim/tesseract/wiki)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Parte 2
 
 
