@@ -60,10 +60,6 @@ Como clonar o repositório:
 * [PlaySound](https://pypi.org/project/playsound/)
 * [Tesseract](https://github.com/UB-Mannheim/tesseract/wiki)
 
-
----
-![alt text](./assets/takaka_logo_quadrado.jpeg "Logo TAKAKA") __**[ Takaka ]**__ 
-
 # Parte 2
 
 
