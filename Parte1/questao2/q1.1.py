@@ -49,7 +49,7 @@ while True:
 
         else:
     '''
-        
+    
     # Exibe resultado
     cv2.imshow('Feed', frame)
 
